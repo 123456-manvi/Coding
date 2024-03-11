@@ -32,6 +32,7 @@ public:
 	   
 	    return c;
 	    
-	    
+	    // tc->o(n2)
+		// sc->o(1)
 	}
 };
